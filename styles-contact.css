@@ -115,13 +115,10 @@ p {
     color: #fff;
 }
 nav{
-	font-family: pt-sans-pro,sans-serif;
-	font-weight: 400;
-	font-style: normal;		
+	font-family: 'Times New Roman', Times, serif;	
 	font-size: 1.2em;
-    line-height: 1.6;
-    color: #fff;
 	width:400px;
+	margin: 0 auto;
 	border: dashed azure;
 	border-width: 3px 0;
 	text-align:center ;
@@ -132,13 +129,13 @@ nav li{
 	display:inline
 	}
 
-anv a{
+navv a{
 	display:inline-block;
 	padding: 10px;
 	}
 
 a{
-	color:darkorchid;
+	color: green;
 	text-decoration: none;
 	font-weight: bold;
 }	
