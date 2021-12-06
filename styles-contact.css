@@ -144,7 +144,6 @@ a{
 }	
 
 a:hover{
-	color: gray;
-	background: rgb(223, 147, 8);
+	color: rgb(255, 255, 255);
+	background: rgb(46, 73, 148, 0.80);
 }
-
